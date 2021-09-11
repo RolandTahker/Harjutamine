@@ -1,0 +1,1 @@
+Github on veebipõhine platvorm, mida kasutatakse versioonikontrolliks. Arendajad ja programmeerijad kasutavad GitHubi, et luua koos hämmastavaid asju.
